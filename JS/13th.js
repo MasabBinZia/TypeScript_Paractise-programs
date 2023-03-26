@@ -1,4 +1,4 @@
-var placesToVisit = ["Bali", "Tokyo", "Paris", "New York", "Sydney"];
+let placesToVisit = ["Bali", "Tokyo", "Paris", "New York", "Sydney"];
 // print the array in its original order
 console.log("Original order: " + placesToVisit);
 // print the array in alphabetical order without modifying the actual list

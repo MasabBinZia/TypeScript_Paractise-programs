@@ -1,4 +1,4 @@
-let placesToVisit = ["Bali", "Tokyo", "Paris", "New York", "Sydney"];
+let placesToVisit :string[] = ["Bali", "Tokyo", "Paris", "New York", "Sydney"];
 
 // print the array in its original order
 console.log("Original order: " + placesToVisit);

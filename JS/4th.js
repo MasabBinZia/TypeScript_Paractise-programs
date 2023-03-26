@@ -1,4 +1,4 @@
-var famous_person = "Albert Einstein";
-var quote = "A person who never made a mistake never tried anything new.";
-var message = "".concat(famous_person, " once said, \"").concat(quote, "\"");
+let famous_person = "Albert Einstein";
+let quote = "A person who never made a mistake never tried anything new.";
+let message = `${famous_person} once said, "${quote}"`;
 console.log(message);

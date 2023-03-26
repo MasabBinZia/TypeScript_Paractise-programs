@@ -1,4 +1,4 @@
-var names = ["Alice", "Bob", "Charlie", "David", "Eve"];
-for (var i = 0; i < names.length; i++) {
-    console.log("Hello, ".concat(names[i], "! Welcome to my program."));
+let names = ["Alice", "Bob", "Charlie", "David", "Eve"];
+for (let i = 0; i < names.length; i++) {
+    console.log(`Hello, ${names[i]}! Welcome to my program.`);
 }
